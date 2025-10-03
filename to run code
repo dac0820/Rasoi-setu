@@ -1,0 +1,3 @@
+create two terminal
+1-terminal frontend :- npm run dev
+2-terminal backend :- cd backend -> python run.py
