@@ -6,7 +6,7 @@ import os
 # Load from .env file
 load_dotenv()
 
-MONGODB_URI="mongodb+srv://bhavitachandariya:<your_pass>@rasoisetu.tyrrv4c.mongodb.net/?retryWrites=true&w=majority&appName=Rasoisetu"
+MONGODB_URI="mongodb+srv://<your_email>:<your_pass>@rasoisetu.tyrrv4c.mongodb.net/?retryWrites=true&w=majority&appName=Rasoisetu"
 
 
 # Connect safely
